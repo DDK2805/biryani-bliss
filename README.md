@@ -1,6 +1,5 @@
 # Biryani Bliss
 
-
 Welcome to **Biryani Bliss** - Your ultimate destination for the most delicious and authentic biryanis! This website is a one-stop solution for all biryani lovers, offering a variety of biryani dishes, customer testimonials, and seamless online ordering.
 
 ## Table of Contents
